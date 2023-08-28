@@ -1,6 +1,6 @@
 # az-code-formatter
 
-![Animation](https://github.com/prabaljainn/az-code-formatter/assets/62801988/e6accd66-e171-476f-b0d9-9872e5fbe15d)
+![Animation](https://github.com/PragunKolli/Format_Extension/blob/main/AZ-code%20formatter.mov)
 
 
 ## Steps to Use a Chrome Extension from this GitHub Repository
